@@ -2,16 +2,16 @@
 
 ## External Link
 
-- [ ] [GitHub-Dokumentation](https://help.github.com/en)
+- [x] [GitHub-Dokumentation](https://help.github.com/en)
 
 ## Internal Link
-- [ ] [Link zum Bilder-Ordner](./Helden)
+- [x] [Link zum Bilder-Ordner](./Helden)
 
 ## Bilder
-- [ ] ![Helden](./Helden/Dva.png)
+- [x] ![Helden](./Helden/Dva.png)
 
 ## Emojis
-- [ ] :smiley:
+- [x] :smiley:
 
 ## Tabellen
 | Namen     | Klasse |
